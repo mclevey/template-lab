@@ -1,0 +1,41 @@
+## Theme 1 XXX
+
+::: {.callout-important}
+## Weight
+
+1 point (each question is worth XXX points)
+:::
+
+Based on your reading of XXX, answer the following questions in your own words:
+
+1. Question one
+2. Question two
+3. etc. 
+
+## Theme 2 XXX
+
+::: {.callout-important}
+## Weight
+
+1 point (each question is worth XXX points)
+:::
+
+Based on your reading of XXX, answer the following questions in your own words:
+
+1. Question one
+2. Question two
+3. etc. 
+
+## Theme 3 XXX
+
+::: {.callout-important}
+## Weight
+
+1 point (each question is worth XXX points)
+:::
+
+Based on your reading of XXX, answer the following questions in your own words:
+
+1. Question one
+2. Question two
+3. etc. 

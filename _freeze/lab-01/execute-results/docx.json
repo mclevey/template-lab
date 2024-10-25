@@ -1,0 +1,17 @@
+{
+  "hash": "29ebb0217e1107670c9e65bbdc1bffbc",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Telling Stories with Data\nsubtitle: \"SOCI 3040 -- Quantitative Research Methods -- Lab 01\"\nauthors:\n  - name: Your Name\n    affiliation: Memorial University\n    email: your.email@mun.ca\nabstract: |\n  This lab introduces...\nkeywords:\n  - stories\n  - research computing\n  - quantitative methods\n  - reproducibility\n# mainfont: Fira Sans Regular\n# sansfont: Fira Sans Regular\n# monofont: Hack Nerd Font Mono\nbibliography: references.bib\nexecute:\n  echo: true\n---\n\n\n\n\n\n:::: {.aside}\n::: {.callout-important}\n## Submit Your Lab\n\nThis lab is due by **time** on **date**. To submit,\n<br>\n\n- follow\n- these\n- instructions\n:::\n::::\n\n# Introduction\n\nThis is a test.\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code .hidden}\n1 + 1 + 1 + 1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 5\n```\n\n\n:::\n:::\n\n\n\n\n\n# Assignment Tasks\n\n# Data\n\n# ...",
+    "supporting": [
+      "lab-01_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

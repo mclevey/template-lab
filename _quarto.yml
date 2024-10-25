@@ -1,0 +1,19 @@
+project:
+  type: manuscript
+  output-dir: docs
+
+manuscript:
+  article: lab-notebook.qmd
+
+format:
+  html:
+    comments:
+      hypothesis: false
+
+execute:
+  echo: true
+  eval: true
+  freeze: auto
+
+
+

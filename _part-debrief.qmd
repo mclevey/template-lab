@@ -1,0 +1,5 @@
+The lab session will include time for discussion. Be prepared to share some of your responses to the questions in [Part 1: Think](#part-1-think) and your work on problems in [Part 2: Do](#part-2-do) with members of your lab group. You should also be prepared to **debrief** your learning process more generally, for example by discussing challenges or breakthroughs that you, or others in your lab group, are experiencing.
+
+::: {.aside}
+**Debriefing** is a structured process designed to reflect on the learning experience itself. In this case, debriefing sessions will focus on processing what has just happened during the lab with explicit consideration of the learning objectives or real-world implications.
+:::

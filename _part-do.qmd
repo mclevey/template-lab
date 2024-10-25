@@ -1,0 +1,58 @@
+## Step 1: XXX
+
+::: {.callout-important}
+## Weight
+XXX points
+:::
+
+1. Instructions
+2. Go
+3. Here
+
+
+## Step 2: XXX
+
+::: {.callout-important}
+## Weight
+XXX points
+:::
+
+1. Instructions
+2. Go
+3. Here
+
+
+## Step 3: XXX
+
+::: {.callout-important}
+## Weight
+XXX points
+:::
+
+1. Instructions
+2. Go
+3. Here
+
+
+## Step 4: XXX
+
+::: {.callout-important}
+## Weight
+XXX points
+:::
+
+1. Instructions
+2. Go
+3. Here
+
+
+## Step 5: XXX
+
+::: {.callout-important}
+## Weight
+XXX points
+:::
+
+1. Instructions
+2. Go
+3. Here

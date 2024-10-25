@@ -1,0 +1,17 @@
+{
+  "hash": "87aac4c2fe5ce2935afb96f82620ed42",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Telling Stories with Data\nsubtitle: \"SOCI 3040 -- Quantitative Research Methods -- Lab 01\"\nauthors:\n  - name: John McLevey\n    affiliation: Memorial University\n    email: john.mclevey@uwaterloo.ca\nabstract: |\n  This lab introduces...\nkeywords:\n  - stories\n  - research computing\n  - quantitative methods\n  - reproducibility\nmonofont: Hack Nerd Font Mono\nbibliography: references.bib\nexecute:\n  echo: true\n---\n\n\n\n:::: {.aside}\n::: {.callout-important}\n## Submit Your Lab\n\nThis lab is due by **time** on **date**. To submit,\n\n<br>\n\n- follow\n- these\n- instructions\n:::\n::::\n\n# Instructions\n\nThis is a test.\n\n\n\n::: {.cell}\n\n```{.r .cell-code .hidden}\n1 + 1 + 1 + 1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 5\n```\n\n\n:::\n:::\n\n\n\n## Learning Objectives\n\n# ...\n\n# ...\n\n# Class Debrief",
+    "supporting": [
+      "lab-01_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

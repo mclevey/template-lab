@@ -1,0 +1,94 @@
+---
+title: "Lab Notebook Template"
+subtitle: "Course Number and Name | **Lab XXX Notebook**"
+authors:
+  - name: "[John McLevey](https://www.johnmclevey.com)"
+    email: john.mclevey@uwaterloo.ca
+    affiliation: "XXX"
+author-title: "COURSE AUTHOR & INSTRUCTOR"
+affiliation-title: "GRADE VALUE"
+abstract-title: "LAB OVERVIEW"
+abstract: |
+  A paragraph or two summarizing the lab content and learning objectives.
+toc-title: "**LAB COMPONENTS**"
+keywords:
+  - list 
+  - of
+  - key
+  - concepts
+monofont: Hack Nerd Font Mono
+bibliography: references.bib
+license: "CC BY-SA"
+execute:
+  echo: true
+crossref:
+  # cross-reference tasks / questions / problems
+  custom: 
+    - kind: float
+      reference-prefix: Task
+      key: task
+    - kind: float
+      reference-prefix: Question
+      key: ques
+    - kind: float
+      reference-prefix: Problem
+      key: prob
+---
+
+
+This lab is organized into three thematic sections: **Think**, **Do**, and **Debrief**.
+
+1. 🤔 [Think](#part-1-think) consists of open-ended questions designed to spark reflection, critical and creative thinking, design thinking, and problem-solving. 
+2. 🤘 [Do](#part-2-do) consists of practical tasks and research problems that build essential quantitative research skills, such as installing and using research software, planning analyses, simulating or processing data, creating graphs, fitting statistical models, and interpreting results.
+3. 👋 [Debrief](#part-3-debrief) contains prompts to encourage metacognition and growth by providing opportunities to assess your learning, share insights, and discuss challenges and breakthroughs with your lab group. 
+
+I recommend that you start working on this material a day (or two) before the lab session. Follow the instructions as best as you can and complete as much as possible. If you encounter any difficulties, make note of them. We will address them during the next class or lab session.
+
+The content in this course is challenging for everyone at first, so feeling confused or frustrated is entirely normal. 😮‍💨 Our [active learning](https://en.wikipedia.org/wiki/Active_learning) approach might amplify these feelings by highlighting things we haven't yet mastered. Though it can feel uncomfortable, this is a natural and valuable part of learning. Discomfort is useful feedback that tells us where we need to focus our efforts to learn more deeply and durably [@brown2014make; @sloman2018knowledge; @zakrajsek2022new]. Take a deep breath, and if needed, stretch or move around. Remember, I'm here to help you learn, and so are your peers. You've got this! ✌️
+
+---
+
+# Lab {{< var lab-number >}}: {{< var lab-name >}}
+
+::: {.callout-tip} 
+## Learning Objectives
+
+{{< include _learning-objectives.qmd >}}
+:::
+
+
+# Part 1: Think
+
+::: {.callout-important}
+## Part 1: Think Grade Weight
+The tasks in Part 1 are worth {{< var part-think-total-points >}}. The value for each is shown below.
+:::
+
+{{< include _part-think.qmd >}}
+
+
+# Part 2: Do
+
+::: {.callout-important}
+## Part 2 Grade Weight
+The tasks in Part 2 are worth {{< var part-do-total-points >}}. The value for each is shown below.
+:::
+
+{{< include _part-do.qmd >}}
+
+
+# Part 3: Debrief 
+
+::: {.callout-important}
+## Part 3 Grade Weight
+I expect you to engage with these tasks / learning activities in small groups, but participation is ungraded. The more you put in, the more you get out.
+:::
+
+{{< include _part-debrief.qmd >}}
+
+
+# ✅ Submit Your Lab! {.appendix}
+
+When you are finished, submit your lab by **(details coming soon...)**.
+
+---
