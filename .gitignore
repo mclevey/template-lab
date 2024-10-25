@@ -1,9 +1,11 @@
-DS_Store
+.DS_Store
 .quarto
 **/data/*.csv
 **/data/*.dta
 **/data/*.rda
 **/data/*.rds
+*_files/*
+
 
 # History files
 .Rhistory
